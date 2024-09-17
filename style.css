@@ -102,3 +102,17 @@ ol li {
   background-color: rgb(82, 255, 60);
   padding: 5px;
 }
+
+.manapova {
+  border: 1px solid rgb(33, 18, 70);
+  border-radius: 20px;
+  background-color: rgb(64, 34, 134);
+  padding: 5px 15px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
+.manapova:hover {
+  background-color: #fff;
+  color: rgb(64, 34, 134);
+}
